@@ -1,4 +1,4 @@
-package getterSetter;
+package aula04.getterSetter;
 
 public class Aula04 {
     public static void main(String[] args) {

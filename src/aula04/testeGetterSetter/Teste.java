@@ -1,4 +1,4 @@
-package testeGetterSetter;
+package aula04.testeGetterSetter;
 
 public class Teste {
     private String nomeCarro;

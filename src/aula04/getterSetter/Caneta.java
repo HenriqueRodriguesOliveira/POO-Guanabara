@@ -1,4 +1,4 @@
-package getterSetter;
+package aula04.getterSetter;
 
 public class Caneta {
     private String modelo;
